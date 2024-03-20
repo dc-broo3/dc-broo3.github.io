@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1256.jpeg"
+  avatar           : "profile2.png"
   name             : "Richard Brooks"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doctoral Fellow at CCA, Flatiron Institute | Astrophysics PhD student at University College London"

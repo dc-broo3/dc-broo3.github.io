@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Richard Brooks"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Richard Brooks"
 description              : &description "personal description"

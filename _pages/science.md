@@ -1,9 +1,8 @@
 ---
-permalink: /science/
+layout: archive
 title: "Science"
+permalink: /science/
 author_profile: true
-redirect_from: 
-  - /science/
 ---
 
 ### DARK MATTER PARADIGMS

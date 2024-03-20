@@ -45,7 +45,7 @@ there has yet to be any response of the MW's dark matter halo due to the passage
 The in-fall of the LMC as the satellite galaxy onto the MW as the central host generates density wakes. 
 The classical `conic' wake trailing the LMC is described as the transient response, whereas the response elsewhere in the MW halo is the collective response.
 In the below animation, you can see the temporal development of the MW halo density contrast due to the LMC's passage for both isolated harmonic subsets and the full basis expansion simulation of the MW--LMC simulation.
-[Brooks et. al (2024)]([https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4043B/abstract](https://ui.adsabs.harvard.edu/abs/2024arXiv240111990B/abstract)https://ui.adsabs.harvard.edu/abs/2024arXiv240111990B/abstract)
+[Brooks et. al (2024)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4043B/abstract](https://ui.adsabs.harvard.edu/abs/2024arXiv240111990B/abstract)https://ui.adsabs.harvard.edu/abs/2024arXiv240111990B/abstract)
 
 
 

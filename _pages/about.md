@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Richard Brooks | Home"
+title: "Richard Brooks - Home"
 author_profile: true
 redirect_from: 
   - /about/
